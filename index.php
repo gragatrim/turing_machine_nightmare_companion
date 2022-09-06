@@ -605,5 +605,6 @@ Card 6: <input type="text" name="card_6" value="<?php echo !empty($_GET['card_6'
 <form action="<?php $_SERVER['PHP_SELF'];?>" method="get" autocomplete="off">
 <input type="submit" value="Reset Cards" />
 </form>
+<a style="float: left;" href="https://github.com/gragatrim/turing_machine_nightmare_companion">Github</a>
 </body>
 </html>
