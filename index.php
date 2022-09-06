@@ -602,6 +602,6 @@ Card 6: <input type="text" name="card_6" value="<?php echo !empty($_GET['card_6'
 <input type="submit" value="Submit"/>
 </div>
 </form>
-<button onclick="window.location.href='<?php echo $_SERVER['PHP_SELF'];?>';">Reset Cards</button>
+<button onclick="window.location.href='<?php echo $_SERVER['HTTP_REFERER'];?>';">Reset Cards</button>
 </body>
 </html>
