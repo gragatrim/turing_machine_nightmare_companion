@@ -591,7 +591,7 @@ if (!empty($_GET['card_1']) && !empty($_GET['card_2']) && !empty($_GET['card_3']
   echo $logic_table;
 }
 ?>
-<form action="<?php $_SERVER['PHP_SELF'];?>" method="get" autocomplete="on">
+<form action="<?php $_SERVER['PHP_SELF'];?>" method="get" autocomplete="off">
 <div style="clear: both;">
 Card 1: <input type="text" name="card_1" value="<?php echo !empty($_GET['card_1']) ? $_GET['card_1'] : ''; ?>"/><br/>
 Card 2: <input type="text" name="card_2" value="<?php echo !empty($_GET['card_2']) ? $_GET['card_2'] : ''; ?>"/><br/>
@@ -602,6 +602,8 @@ Card 6: <input type="text" name="card_6" value="<?php echo !empty($_GET['card_6'
 <input type="submit" value="Submit"/>
 </div>
 </form>
-<button onclick="window.location.href='<?php echo $_SERVER['HTTP_REFERER'];?>';">Reset Cards</button>
+<form action="<?php $_SERVER['PHP_SELF'];?>" method="get" autocomplete="off">
+<input type="submit" value="Reset Cards" />
+</form>
 </body>
 </html>
