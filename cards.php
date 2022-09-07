@@ -4,16 +4,6 @@ class Card {
     $this->number = $number;
     $this->conditions = $conditions;
   }
-
-  public function legal_plays($state) {
-  }
-
-  public function next_state($state, $play) {
-  }
-
-  public function get_winner($state) {
-  }
-
 }
 
 $cards = array();
@@ -35,7 +25,7 @@ $cards[15] = new Card(15,array('<div class="triangle"></div> is larger than <div
 $cards[16] = new Card(16,array('there are more even than odd numbers', 'there are more odd than even numbers'));
 $cards[17] = new Card(17,array('zero even numbers', 'one even number', 'two even number', 'three even numbers'));
 $cards[18] = new Card(18,array('the sum of numbers is even', 'the sum of numbers is odd'));
-$cards[19] = new Card(19,array('the sum of <div class="triangle"></div> and <div class="square"></div> is less than 6', 'the sum of <div class="triangle"></div> and <div class="square"></div> is equal to 6', 'the sum of <div class="triangle"></div> and <div class="square"></div> is greather than 6'));
+$cards[19] = new Card(19,array('the sum of <div class="triangle"></div> and <div class="square"></div> is less than 6', 'the sum of <div class="triangle"></div> and <div class="square"></div> is equal to 6', 'the sum of <div class="triangle"></div> and <div class="square"></div> is greater than 6'));
 $cards[20] = new Card(20,array('a triple number', 'a double number', 'no repitition'));
 $cards[21] = new Card(21,array('no pairs', 'a pair'));
 $cards[22] = new Card(22,array('ascending ordering', 'descending ordering', 'no order'));
@@ -47,8 +37,8 @@ $cards[27] = new Card(27,array('<div class="triangle"></div> is less than 4', '<
 $cards[28] = new Card(28,array('<div class="triangle"></div> is equal to 1', '<div class="square"></div> is equal to 1', '<div class="circle"></div> is equal to 1'));
 $cards[29] = new Card(29,array('<div class="triangle"></div> is equal to 3', '<div class="square"></div> is equal to 3', '<div class="circle"></div> is equal to 3'));
 $cards[30] = new Card(30,array('<div class="triangle"></div> is equal to 4', '<div class="square"></div> is equal to 4', '<div class="circle"></div> is equal to 4'));
-$cards[31] = new Card(31,array('<div class="triangle"></div> is greather than 1', '<div class="square"></div> is greather than 1', '<div class="circle"></div> is greather than 1'));
-$cards[32] = new Card(32,array('<div class="triangle"></div> is greather than 3', '<div class="square"></div> is greather than 3', '<div class="circle"></div> is greather than 3'));
+$cards[31] = new Card(31,array('<div class="triangle"></div> is greater than 1', '<div class="square"></div> is greater than 1', '<div class="circle"></div> is greater than 1'));
+$cards[32] = new Card(32,array('<div class="triangle"></div> is greater than 3', '<div class="square"></div> is greater than 3', '<div class="circle"></div> is greater than 3'));
 $cards[33] = new Card(33,array('<div class="triangle"></div> is even', '<div class="triangle"></div> is odd', '<div class="square"></div> is even', '<div class="square"></div> is odd', '<div class="circle"></div> is even', '<div class="circle"></div> is odd'));
 $cards[34] = new Card(34,array('<div class="triangle"></div> is the smallest or is equal to <div class="circle"></div> and <div class="square"></div>', '<div class="square"></div> is the smallest or equal to <div class="triangle"></div> and <div class="circle"></div>', '<div class="circle"></div> is the smallest or equal to <div class="square"></div> and <div class="triangle"></div>'));
 $cards[35] = new Card(35,array('<div class="triangle"></div> is the largest or is equal to <div class="circle"></div> and <div class="square"></div>', '<div class="square"></div> is the largest or equal to <div class="triangle"></div> and <div class="circle"></div>', '<div class="circle"></div> is the largest or equal to <div class="square"></div> and <div class="triangle"></div>'));
