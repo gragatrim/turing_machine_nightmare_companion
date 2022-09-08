@@ -29,32 +29,26 @@ if (!empty($_GET['card_1']) && !empty($_GET['card_2']) && !empty($_GET['card_3']
          class='checkbox'
          onfocus='this.blur()'
          readonly='true'
-         size='1'
          value='' onclick='quadstate_Marks(this)' /></td><td><input type='text'
          class='checkbox'
          onfocus='this.blur()'
          readonly='true'
-         size='1'
          value='' onclick='quadstate_Marks(this)' /></td><td><input type='text'
          class='checkbox'
          onfocus='this.blur()'
          readonly='true'
-         size='1'
          value='' onclick='quadstate_Marks(this)' /></td><td><input type='text'
          class='checkbox'
          onfocus='this.blur()'
          readonly='true'
-         size='1'
          value='' onclick='quadstate_Marks(this)' /></td><td><input type='text'
          class='checkbox'
          onfocus='this.blur()'
          readonly='true'
-         size='1'
          value='' onclick='quadstate_Marks(this)' /></td><td><input type='text'
          class='checkbox'
          onfocus='this.blur()'
          readonly='true'
-         size='1'
          value='' onclick='quadstate_Marks(this)' /></td></tr>";
     }
   }
@@ -103,12 +97,12 @@ if (!empty($_GET['card_1']) && !empty($_GET['card_2']) && !empty($_GET['card_3']
                           <option value="5">5</option>
                         </select>
                       </td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
                     </tr>
                     <tr>
                       <td>
@@ -141,12 +135,12 @@ if (!empty($_GET['card_1']) && !empty($_GET['card_2']) && !empty($_GET['card_3']
                           <option value="5">5</option>
                         </select>
                       </td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
                     </tr>
                     <tr>
                       <td>
@@ -179,12 +173,12 @@ if (!empty($_GET['card_1']) && !empty($_GET['card_2']) && !empty($_GET['card_3']
                           <option value="5">5</option>
                         </select>
                       </td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
                     </tr>
                     <tr>
                       <td>
@@ -217,12 +211,12 @@ if (!empty($_GET['card_1']) && !empty($_GET['card_2']) && !empty($_GET['card_3']
                           <option value="5">5</option>
                         </select>
                       </td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
                     </tr>
                     <tr>
                       <td>
@@ -255,12 +249,12 @@ if (!empty($_GET['card_1']) && !empty($_GET['card_2']) && !empty($_GET['card_3']
                           <option value="5">5</option>
                         </select>
                       </td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
                     </tr>
                     <tr>
                       <td>
@@ -293,12 +287,12 @@ if (!empty($_GET['card_1']) && !empty($_GET['card_2']) && !empty($_GET['card_3']
                           <option value="5">5</option>
                         </select>
                       </td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
                     </tr>
                     <tr>
                       <td>
@@ -331,12 +325,12 @@ if (!empty($_GET['card_1']) && !empty($_GET['card_2']) && !empty($_GET['card_3']
                           <option value="5">5</option>
                         </select>
                       </td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
                     </tr>
                     <tr>
                       <td>
@@ -369,12 +363,12 @@ if (!empty($_GET['card_1']) && !empty($_GET['card_2']) && !empty($_GET['card_3']
                           <option value="5">5</option>
                         </select>
                       </td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
                     </tr>
                     <tr>
                       <td>
@@ -407,12 +401,12 @@ if (!empty($_GET['card_1']) && !empty($_GET['card_2']) && !empty($_GET['card_3']
                           <option value="5">5</option>
                         </select>
                       </td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
                     </tr>
                     <tr>
                       <td>
@@ -445,12 +439,12 @@ if (!empty($_GET['card_1']) && !empty($_GET['card_2']) && !empty($_GET['card_3']
                           <option value="5">5</option>
                         </select>
                       </td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="" onclick="tristate_Marks(this)" /></td>
                     </tr>
                   </table>';
   $answer_table = '<table style="float: left;">
@@ -460,29 +454,29 @@ if (!empty($_GET['card_1']) && !empty($_GET['card_2']) && !empty($_GET['card_3']
                       <th><div class="circle"></div></th>
                     </tr>
                     <tr>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="5" onclick="number_x(this, 5)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="5" onclick="number_x(this, 5)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="5" onclick="number_x(this, 5)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="5" onclick="number_x(this, 5)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="5" onclick="number_x(this, 5)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="5" onclick="number_x(this, 5)" /></td>
                     </tr>
                     <tr>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="4" onclick="number_x(this, 4)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="4" onclick="number_x(this, 4)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="4" onclick="number_x(this, 4)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="4" onclick="number_x(this, 4)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="4" onclick="number_x(this, 4)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="4" onclick="number_x(this, 4)" /></td>
                     </tr>
                     <tr>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="3" onclick="number_x(this, 3)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="3" onclick="number_x(this, 3)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="3" onclick="number_x(this, 3)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="3" onclick="number_x(this, 3)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="3" onclick="number_x(this, 3)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="3" onclick="number_x(this, 3)" /></td>
                     </tr>
                     <tr>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="2" onclick="number_x(this, 2)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="2" onclick="number_x(this, 2)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="2" onclick="number_x(this, 2)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="2" onclick="number_x(this, 2)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="2" onclick="number_x(this, 2)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="2" onclick="number_x(this, 2)" /></td>
                     </tr>
                     <tr>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="1" onclick="number_x(this, 1)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="1" onclick="number_x(this, 1)" /></td>
-                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" size="1" value="1" onclick="number_x(this, 1)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="1" onclick="number_x(this, 1)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="1" onclick="number_x(this, 1)" /></td>
+                      <td><input type="text" class="checkbox" onfocus="this.blur()" readonly="true" value="1" onclick="number_x(this, 1)" /></td>
                     </tr>
                   </table>';
 }
@@ -521,6 +515,7 @@ if (!empty($_GET['card_1']) && !empty($_GET['card_2']) && !empty($_GET['card_3']
   text-align: center;
   border: none;
   cursor: default;
+  width: 35px;
 }
 
 table{
